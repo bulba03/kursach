@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Kursach\Debug\Kursach.exe
+C:\Users\User\source\repos\Kursach\Debug\Kursach.pdb
